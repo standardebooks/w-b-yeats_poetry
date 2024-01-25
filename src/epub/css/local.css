@@ -1,2 +1,74 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+/* Collection page breaks */
+article,
+section{
+	break-after: page;
+}
+
+/* Stanza, spans, and breaks */
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+/* Line indentation */
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+/* Elision */
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
+
+/* If eliding within an epigraph, include this additional style: */
+[epub|type~="epigraph"] span.elision{
+	font-style: normal;
+}
+
+/* Poetry hgroup */
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
+
+/* Caesuras */
+span > span:first-child{
+	margin-right: 1.5em;
+}
+
+/* Double dropped line */
+.dl2 span:first-child{
+	vertical-align: 100%;
+}
+
+/* Triple dropped line */
+.dl3 span:first-child{
+	vertical-align: 200%;
+}
+
+.dl3 span:nth-child(2){
+	vertical-align: 100%;
+}
