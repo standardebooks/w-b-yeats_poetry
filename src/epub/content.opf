@@ -41,9 +41,11 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Text sources -->
-		<dc:source>PG_URL</dc:source>
+		<!-- The Wild Swans at Coole -->
+		<dc:source>https://www.gutenberg.org/ebooks/32491</dc:source>
 		<!-- Image sources -->
-		<dc:source>IA_URL</dc:source>
+		<!-- Later Poems (1928 printing of 1924 edition) -->
+		<dc:source>https://catalog.hathitrust.org/Record/001776372</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
