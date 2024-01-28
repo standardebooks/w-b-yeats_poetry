@@ -8,7 +8,8 @@ section{
 }
 
 /* Stanza, spans, and breaks */
-[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"],
+[epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
@@ -74,7 +75,6 @@ span > span:first-child{
 }
 
 /* Dialogue table */
-
 [epub|type~="z3998:drama"] table,
 table[epub|type~="z3998:drama"]{
 	border-collapse: collapse;
@@ -110,14 +110,7 @@ table[epub|type~="z3998:drama"]{
 	width: 20%;
 }
 
-section[epub|type~="z3998:scene"] > p{
-	margin: 1em auto;
-	width: 75%;
-}
-
 /* Stage directions and personas */
-
-
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }

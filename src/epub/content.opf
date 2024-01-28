@@ -41,6 +41,8 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Text sources -->
+		<!-- Collected Works (1908) v1: source for most poems to 1908 -->
+		<dc:source>https://www.gutenberg.org/ebooks/49608</dc:source>
 		<!-- The Wild Swans at Coole -->
 		<dc:source>https://www.gutenberg.org/ebooks/32491</dc:source>
 		<!-- Image sources -->
@@ -57,6 +59,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._B._Yeats</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095579</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
@@ -95,6 +98,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="poetry.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
