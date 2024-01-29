@@ -47,10 +47,14 @@
 		<dc:source>https://www.gutenberg.org/ebooks/32491</dc:source>
 		<!-- Responsibilities -->
 		<dc:source>https://www.gutenberg.org/ebooks/36865</dc:source>
+		<!-- Collected Works (1908) v. 2: The Entrance of Deirdre/Chorus from a Play -->
+		<dc:source>https://www.gutenberg.org/ebooks/49609</dc:source>
 		<!-- Image sources -->
 		<!-- Dublin University Review 1886 -->
 		<!-- - Transcription and image source for "In a Drawing Room", "The Two Titans"-->
 		<dc:source>https://www.google.ie/books/edition/The_Dublin_University_Review/TFAwAQAAMAAJ</dc:source>
+		<!-- 1905 Collected Poems, source for poem version of Entrance of Deirdre -->
+		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
 		<!-- Later Poems (1928 printing of 1924 edition) -->
 		<dc:source>https://catalog.hathitrust.org/Record/001776372</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
