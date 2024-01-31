@@ -134,3 +134,10 @@ i [epub|type~="z3998:persona"]{
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
+
+/* non-TOC headers */
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
