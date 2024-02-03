@@ -56,6 +56,9 @@
 		<!-- The Wind Among the Reeds: Source for Hanrahan...Wanderings -->
 		<dc:source>https://www.gutenberg.org/ebooks/32233</dc:source>
 		<!-- Image sources -->
+		<!-- Dublin University Review 1885, transcription/image source for: -->
+		<!-- - "Song of the Faeries" -->
+		<dc:source>https://www.google.com/books/edition/The_Dublin_University_Review/fE8wAQAAMAAJ</dc:source>
 		<!-- Dublin University Review 1886, transcription/image source for: -->
 		<!-- - "In a Drawing Room", "Life", "The Two Titans" -->
 		<dc:source>https://www.google.ie/books/edition/The_Dublin_University_Review/TFAwAQAAMAAJ</dc:source>
