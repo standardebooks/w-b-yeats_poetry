@@ -57,11 +57,14 @@
 		<dc:source>https://www.gutenberg.org/ebooks/32233</dc:source>
 		<!-- Image sources -->
 		<!-- Dublin University Review 1885, transcription/image source for: -->
-		<!-- - "Song of the Faeries" -->
+		<!-- - "Song of the Faeries", "Love and Death" -->
 		<dc:source>https://www.google.com/books/edition/The_Dublin_University_Review/fE8wAQAAMAAJ</dc:source>
 		<!-- Dublin University Review 1886, transcription/image source for: -->
 		<!-- - "In a Drawing Room", "Life", "The Two Titans" -->
 		<dc:source>https://www.google.ie/books/edition/The_Dublin_University_Review/TFAwAQAAMAAJ</dc:source>
+		<!-- Poems and Ballads of Young Ireland (1890), transcription/image source for -->
+		<!-- - Love Song -->
+		<dc:source>https://archive.org/details/poemsandballads00unkngoog</dc:source>
 		<!-- 1905 Collected Poems, source for poem version of Entrance of Deirdre -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
 		<!-- Later Poems (1928 printing of 1924 edition) -->
