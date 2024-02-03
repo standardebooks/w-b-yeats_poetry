@@ -56,8 +56,8 @@
 		<!-- The Wind Among the Reeds: Source for Hanrahan...Wanderings -->
 		<dc:source>https://www.gutenberg.org/ebooks/32233</dc:source>
 		<!-- Image sources -->
-		<!-- Dublin University Review 1886 -->
-		<!-- - Transcription and image source for "In a Drawing Room", "The Two Titans"-->
+		<!-- Dublin University Review 1886, transcription/image source for: -->
+		<!-- - "In a Drawing Room", "Life", "The Two Titans" -->
 		<dc:source>https://www.google.ie/books/edition/The_Dublin_University_Review/TFAwAQAAMAAJ</dc:source>
 		<!-- 1905 Collected Poems, source for poem version of Entrance of Deirdre -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
