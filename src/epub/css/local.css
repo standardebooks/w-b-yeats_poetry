@@ -39,25 +39,9 @@ p span.i2{
 	text-indent: -1em;
 }
 
-/* Elision */
-span.elision{
-	margin: .5em;
-	margin-left: 3em;
-}
-
-/* If eliding within an epigraph, include this additional style: */
-[epub|type~="epigraph"] span.elision{
-	font-style: normal;
-}
-
 /* Poetry hgroup */
 [epub|type~="z3998:poem"] hgroup p{
 	text-align: center;
-}
-
-/* Caesuras */
-span > span:first-child{
-	margin-right: 1.5em;
 }
 
 /* Double dropped line */
@@ -116,7 +100,6 @@ table[epub|type~="z3998:drama"]{
 }
 
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
-em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
