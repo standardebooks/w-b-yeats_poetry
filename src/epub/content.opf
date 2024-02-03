@@ -37,7 +37,9 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of poems by William Butler Yeats.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/w-b-yeats"&gt;William Butler Yeats&lt;/a&gt; played many roles in Ireland at the turn of the twentieth century: playwright, essayist, critic, mystic, theatre manager, revolutionary and politician. But he was first and foremost a poet, perhaps the most famous poet Ireland has yet produced.&lt;/p&gt;
+			&lt;p&gt;This collection contains Yeats’ verse from his first published poem, “Song of the Fairies,” which appeared in a Dublin literary magazine in 1885, through 1928’s &lt;i&gt;The Tower&lt;/i&gt;. In them the reader can trace the growth of the poet’s voice and the influences on his writing, from Irish nationalism to esoteric metaphysics.&lt;/p&gt;
+			&lt;p&gt;Included are some of Yeats’ most enduringly popular works: “The Second Coming,” “The Lake Isle of Innisfree,” and “The Wild Swans at Coole.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Text sources -->
@@ -65,7 +67,7 @@
 		<dc:source>https://archive.org/details/robertes00wby/robertes00wby</dc:source>
 		<!-- The Tower (1928) -->
 		<dc:source>https://catalog.hathitrust.org/Record/001020237</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">This collection currently contains all poems through 1928, except for one poem from 1887, A Dawn-Song, for which no online image source was available. Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition.</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
