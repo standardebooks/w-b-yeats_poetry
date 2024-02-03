@@ -141,3 +141,10 @@ header{
 	margin: 1em;
 	text-align: center;
 }
+
+/* Footers on prefaces and datelines on poems */
+footer{
+	font-variant: small-caps;
+	margin-top: 1em;
+	text-align: right;
+}
