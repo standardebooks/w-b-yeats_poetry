@@ -65,6 +65,12 @@
 		<!-- Poems and Ballads of Young Ireland (1890), transcription/image source for -->
 		<!-- - Love Song -->
 		<dc:source>https://archive.org/details/poemsandballads00unkngoog</dc:source>
+		<!-- The Wanderings of Oisin, sketches, ballads, and lyrics (1892), transcription/image source for: -->
+		<!-- - Girl's Song, Kanva on Himself, Mr. Nettleship's Picture, Phantom Ship, -->
+		<!-- - Lover's Quarrel/Fairies, Ferencz Renyi, Fairy Doctor, -->
+		<!-- - Priest and the Fairy, Fairy Pedant, Dwelt Among the Sycamores, -->
+		<!-- - A Legend, Street Dancers, Quatrains and Aphorisms -->
+		<dc:source>https://catalog.hathitrust.org/Record/008958226</dc:source>
 		<!-- 1905 Collected Poems, source for poem version of Entrance of Deirdre -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
 		<!-- Later Poems (1928 printing of 1924 edition) -->
