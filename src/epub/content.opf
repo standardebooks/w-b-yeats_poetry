@@ -67,6 +67,8 @@
 		<!-- Dublin University Review 1886, transcription/image source for: -->
 		<!-- - "In a Drawing Room", "Life", "The Two Titans" -->
 		<dc:source>https://www.google.ie/books/edition/The_Dublin_University_Review/TFAwAQAAMAAJ</dc:source>
+		<!-- The Irish Monthly 1886, transc./image source for "Remembrance" -->
+		<dc:source>https://www.google.ie/books/edition/The_Irish_Monthly/EMoaAAAAYAAJ</dc:source>
 		<!-- Poems and Ballads of Young Ireland (1890), transcription/image source for -->
 		<!-- - Love Song -->
 		<dc:source>https://archive.org/details/poemsandballads00unkngoog</dc:source>
