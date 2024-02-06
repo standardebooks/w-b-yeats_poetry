@@ -56,6 +56,11 @@
 		<!-- The Wind Among the Reeds: Source for Hanrahan...Wanderings -->
 		<dc:source>https://www.gutenberg.org/ebooks/32233</dc:source>
 		<!-- Image sources -->
+		<!-- - All poems included are proofed from either: -->
+		<!-- - Poems, dated 1923 but published 1927, containing "final" revisions -->
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.92252</dc:source>
+		<!-- - or Later Poems (1928 printing of 1924 edition) -->
+		<dc:source>https://catalog.hathitrust.org/Record/001776372</dc:source>
 		<!-- Dublin University Review 1885, transcription/image source for: -->
 		<!-- - "Song of the Faeries", "Love and Death" -->
 		<dc:source>https://www.google.com/books/edition/The_Dublin_University_Review/fE8wAQAAMAAJ</dc:source>
@@ -75,8 +80,6 @@
 		<dc:source>https://archive.org/details/countesskathleen00yeat</dc:source>
 		<!-- 1905 Collected Poems, source for poem version of Entrance of Deirdre -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
-		<!-- Later Poems (1928 printing of 1924 edition) -->
-		<dc:source>https://catalog.hathitrust.org/Record/001776372</dc:source>
 		<!-- Michael Robartes and the Dancer (1920) -->
 		<dc:source>https://archive.org/details/robertes00wby/robertes00wby</dc:source>
 		<!-- The Tower (1928) -->
