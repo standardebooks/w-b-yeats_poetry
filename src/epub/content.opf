@@ -62,8 +62,9 @@
 		<!-- - or Later Poems (1928 printing of 1924 edition) -->
 		<dc:source>https://catalog.hathitrust.org/Record/001776372</dc:source>
 		<!-- Dublin University Review 1885, transcription/image source for: -->
-		<!-- - "Song of the Faeries", "Love and Death" -->
+		<!-- - "Song of the Faeries", "Love and Death", "The Seeker" -->
 		<dc:source>https://www.google.com/books/edition/The_Dublin_University_Review/fE8wAQAAMAAJ</dc:source>
+		<dc:source>https://www.google.ie/books/edition/The_Dublin_University_Review/TWUEAAAAQAAJ</dc:source>
 		<!-- Dublin University Review 1886, transcription/image source for: -->
 		<!-- - "In a Drawing Room", "Life", "The Two Titans" -->
 		<dc:source>https://www.google.ie/books/edition/The_Dublin_University_Review/TFAwAQAAMAAJ</dc:source>
