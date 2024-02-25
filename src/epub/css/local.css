@@ -199,8 +199,7 @@ footer{
 }
 
 /* Poem-specific styling */
-
 #the-rose-a-faery-song div:first-of-type{
-	margin: auto 2em 2em; 2em;
-	text-align:center;
+	margin: auto 2em 2em 2em;
+	text-align: center;
 }
