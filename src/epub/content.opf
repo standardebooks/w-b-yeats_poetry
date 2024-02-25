@@ -83,11 +83,13 @@
 		<dc:source>https://archive.org/details/countesskathleen00yeat</dc:source>
 		<!-- 1905 Collected Poems, source for poem version of Entrance of Deirdre -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
+		<!-- 1922 Poems, source for original version of Lamentation of the Old Pensioner -->
+		<dc:source>https://archive.org/details/poemsyeatrich</dc:source>
 		<!-- Michael Robartes and the Dancer (1920) -->
 		<dc:source>https://archive.org/details/robertes00wby/robertes00wby</dc:source>
 		<!-- The Tower (1928) -->
 		<dc:source>https://catalog.hathitrust.org/Record/001020237</dc:source>
-		<meta property="se:production-notes">This collection currently contains all poems through 1928, except for one poem from 1887, A Dawn-Song, for which no online image source was available. Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition.</meta>
+		<meta property="se:production-notes">This collection currently contains all poems through 1928, except for one poem from 1887, "A Dawn-Song," for which no online image source was available. Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition. In 1890 Yeats published a poem entitled "The Lamentation of the Old Pensioner", which from 1895 on was included in his collected poems as part of "The Rose." In later editions, an entirely new poem with the same title replaced this poem. In this collection the first poem appears early in the poems among Yeats' juvenilia (proofed against a 1922 edition of Poems) and the later poem appears in "The Rose."</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
