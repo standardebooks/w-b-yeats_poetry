@@ -56,7 +56,7 @@
 		<!-- The Wind Among the Reeds: Source for Hanrahan...Wanderings -->
 		<dc:source>https://www.gutenberg.org/ebooks/32233</dc:source>
 		<!-- Image sources -->
-		<!-- - All poems included are proofed from either: -->
+		<!-- - All poems not otherwise listed are proofed from either: -->
 		<!-- - Poems, dated 1923 but published 1927, containing "final" revisions -->
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.92252</dc:source>
 		<!-- - or Later Poems (1928 printing of 1924 edition) -->
@@ -70,26 +70,39 @@
 		<dc:source>https://www.google.ie/books/edition/The_Dublin_University_Review/TFAwAQAAMAAJ</dc:source>
 		<!-- The Irish Monthly 1886, transc./image source for "Remembrance" -->
 		<dc:source>https://www.google.ie/books/edition/The_Irish_Monthly/EMoaAAAAYAAJ</dc:source>
+		<!-- The Girl's Own Paper 1889, transc./image source for: -->
+		<!-- In Church; A Summer Evening -->
+		<dc:source>https://archive.org/details/gop-1889</dc:source>
 		<!-- Poems and Ballads of Young Ireland (1890), transcription/image source for -->
 		<!-- - Love Song -->
 		<dc:source>https://archive.org/details/poemsandballads00unkngoog</dc:source>
+		<!-- The Leisure Hour (1891), transc./image source for In the Firelight -->
+		<dc:source>https://catalog.hathitrust.org/Record/000551354</dc:source>
 		<!-- The Wanderings of Oisin, sketches, ballads, and lyrics (1892), transcription/image source for: -->
 		<!-- - Girl's Song, Kanva on Himself, Mr. Nettleship's Picture, Phantom Ship, -->
 		<!-- - Lover's Quarrel/Fairies, Ferencz Renyi, Fairy Doctor, -->
 		<!-- - Priest and the Fairy, Fairy Pedant, Dwelt Among the Sycamores, -->
 		<!-- - A Legend, Street Dancers, Quatrains and Aphorisms -->
 		<dc:source>https://catalog.hathitrust.org/Record/008958226</dc:source>
-		<!-- Countess Kathleen, transcription/image source for When You Are Sad -->
+		<!-- Countess Kathleen (1892), transcription/image source for When You Are Sad -->
 		<dc:source>https://archive.org/details/countesskathleen00yeat</dc:source>
-		<!-- 1905 Collected Poems, source for poem version of Entrance of Deirdre -->
+		<!-- The Bookman (1893), trans./image source for: -->
+		<!-- - The Danaan Quicken Tree and Wisdom and Dreams -->
+		<dc:source>https://books.google.ie/books?id=WapMAAAAYAAJ</dc:source>
+		<!-- The Bookman (1895), trans./image source for Song of the Rosy-Cross -->
+		<dc:source>https://catalog.hathitrust.org/Record/008883383</dc:source>
+		<!-- 1905 Collected Poems, source for: -->
+		<!-- - poem versions of Entrance of Deirdre and The Lover to His Heart -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
+		<!-- The Shanachie (1906), tr./image source for "Against Witchcraft" -->
+		<dc:source>https://books.google.com/books?id=2gZDAQAAIAAJ</dc:source>
 		<!-- 1922 Poems, source for original version of Lamentation of the Old Pensioner -->
 		<dc:source>https://archive.org/details/poemsyeatrich</dc:source>
 		<!-- Michael Robartes and the Dancer (1920) -->
 		<dc:source>https://archive.org/details/robertes00wby/robertes00wby</dc:source>
 		<!-- The Tower (1928) -->
 		<dc:source>https://catalog.hathitrust.org/Record/001020237</dc:source>
-		<meta property="se:production-notes">This collection currently contains all poems through 1928, except for one poem from 1887, "A Dawn-Song," for which no online image source was available. Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition. In 1890 Yeats published a poem entitled "The Lamentation of the Old Pensioner", which from 1895 on was included in his collected poems as part of "The Rose." In later editions, an entirely new poem with the same title replaced this poem. In this collection the first poem appears early in the poems among Yeats' juvenilia (proofed against a 1922 edition of Poems) and the later poem appears in "The Rose."</meta>
+		<meta property="se:production-notes">This collection currently contains all known poems between 1885 and 1928, except for "A Dawn-Song" (1887) and "The Ballad of Earl Paul" (1893), for which no online image sources were available. Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition. In 1890 Yeats published a poem entitled "The Lamentation of the Old Pensioner", which from 1895 on was included in his collected poems as part of "The Rose." In later editions, an entirely new poem with the same title replaced this poem. In this collection the first poem appears early in the poems among Yeats' juvenilia (proofed against a 1922 edition of Poems) and the later poem appears in "The Rose." Similarly, I have retained both "Hanrahan Laments Because of his Wanderings" (1899) and the later version  "Maid Quiet" (1922) as different enough from each other. I have tried to include all of the Notes Yeats provided to his poems; where he wrote different versions of these notes for different collections, I have tried to include both, either as separate notes or by combining two notes into one where appropriate.</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
