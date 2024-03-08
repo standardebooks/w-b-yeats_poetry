@@ -230,3 +230,9 @@ footer{
 	margin: auto 2em 2em 2em;
 	text-align: center;
 }
+
+#baile-and-aillinn > p:first-of-type{
+	margin-left:1em;
+	margin-right:1em;
+	margin-bottom:1em;
+}
