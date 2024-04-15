@@ -76,7 +76,7 @@
 		<!-- Poems and Ballads of Young Ireland (1890), transcription/image source for -->
 		<!-- - Love Song -->
 		<dc:source>https://archive.org/details/poemsandballads00unkngoog</dc:source>
-		<!-- The Leisure Hour (1891), transc./image source for In the Firelight -->
+		<!-- The Leisure Hour (1891) v. 40, transc./image source for In the Firelight -->
 		<dc:source>https://catalog.hathitrust.org/Record/000551354</dc:source>
 		<!-- The Wanderings of Oisin, sketches, ballads, and lyrics (1892), transcription/image source for: -->
 		<!-- - Girl's Song, Kanva on Himself, Mr. Nettleship's Picture, Phantom Ship, -->
@@ -86,28 +86,29 @@
 		<dc:source>https://catalog.hathitrust.org/Record/008958226</dc:source>
 		<!-- Countess Kathleen (1892), transcription/image source for When You Are Sad -->
 		<dc:source>https://archive.org/details/countesskathleen00yeat</dc:source>
-		<!-- The Bookman (1893), trans./image source for: -->
-		<!-- - The Danaan Quicken Tree and Wisdom and Dreams -->
-		<dc:source>https://books.google.ie/books?id=WapMAAAAYAAJ</dc:source>
-		<!-- The Bookman (1895), trans./image source for Song of the Rosy-Cross -->
+		<!-- The Bookman (1893 and 1895), trans./image source for Song of the Rosy-Cross, -->
+		<!-- The Danaan Quicken Tree, and Wisdom and Dreams -->
 		<dc:source>https://catalog.hathitrust.org/Record/008883383</dc:source>
-		<!-- 1905 Collected Poems, source for: -->
-		<!-- - poem versions of Entrance of Deirdre and The Lover to His Heart -->
+		<!-- 1905 Poetical Works, source for: -->
+		<!-- - poem versions of Entrance of Deirdre and The Lover to His Heart, -->
+		<!-- - and The Lover Mourns Because of his Wanderings -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
 		<!-- The Shanachie (1906), tr./image source for "Against Witchcraft" -->
 		<dc:source>https://books.google.com/books?id=2gZDAQAAIAAJ</dc:source>
-		<!-- Responsilibities (1916), tr./image source for notes to these poems -->
+		<!-- Responsilibities (1916), tr./image source The Well and the Tree, -->
+		<!-- - and for additional notes to poems from this collection -->
 		<dc:source>https://archive.org/details/responsibilities00yeatiala</dc:source>
 		<!-- The Wild Swans at Coole (1917), image source for volume preface -->
 		<!--   and note to "The Sad Shepherd" -->
 		<dc:source>https://books.google.com/books?id=jDI3AAAAIAAJ</dc:source>
 		<!-- Michael Robartes and the Dancer (1920) -->
 		<dc:source>https://archive.org/details/robertes00wby/robertes00wby</dc:source>
-		<!-- 1922 Poems, source for original version of Lamentation of the Old Pensioner -->
+		<!-- 1922 Poems, source for original version of Lamentation of the Old Pensioner; -->
+		<!-- - image source for To Some I Have Talked With By the Fire -->
 		<dc:source>https://archive.org/details/poemsyeatrich</dc:source>
 		<!-- The Tower (1928) -->
 		<dc:source>https://catalog.hathitrust.org/Record/001020237</dc:source>
-		<meta property="se:production-notes">This collection currently contains all known poems between 1885 and 1928, except for "A Dawn-Song" (1887) and "The Ballad of Earl Paul" (1893), for which no online image sources were available. Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition. In 1890 Yeats published a poem entitled "The Lamentation of the Old Pensioner", which from 1895 on was included in his collected poems as part of "The Rose." In later editions, an entirely new poem with the same title replaced this poem. In this collection the first poem appears early in the poems among Yeats' juvenilia (proofed against a 1922 edition of Poems) and the later poem appears in "The Rose." Similarly, I have retained both "Hanrahan Laments Because of his Wanderings" (1899) and the later version "Maid Quiet" (1922) as different enough from each other. I have tried to include all of the Notes Yeats provided to his poems; where he wrote different versions of these notes for different collections, I have tried to include both, either as separate notes or by combining two notes into one where appropriate.</meta>
+		<meta property="se:production-notes">This collection currently contains all known poems between 1885 and 1928, except for "A Dawn-Song" (1887) and "The Ballad of Earl Paul" (1893), for which no online image sources were available. Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition. In 1890 Yeats published a poem entitled "The Lamentation of the Old Pensioner", which from 1895 on was included in his collected poems as part of "The Rose." In later editions, an entirely new poem with the same title replaced this poem. In this collection the first poem appears early in the poems among Yeats' juvenilia (proofed against a 1922 edition of Poems) and the later poem appears in "The Rose." Similarly, I have retained both the original 1899 version of "The Lover Mourns Because of his Wanderings/Hanrahan Laments Because of his Wanderings" (1899) and "Maid Quiet" (1922), often considered a later version but different enough to justify its inclusion. I have tried to include all of the Notes Yeats provided to his poems; where he wrote different versions of these notes for different collections, I have tried to include both, either as separate notes or by combining two notes into one where appropriate.</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>

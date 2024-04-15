@@ -241,3 +241,7 @@ footer{
 #responsibilities > article:last-of-type > p{
 	font-style: italic;
 }
+
+#how-ferencz-renyi-kept-silent > p:first-of-type{
+	font-style: italic;
+}
