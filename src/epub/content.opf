@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/49609</dc:source>
 		<!-- Poems (1920): Source for Who Goes with Fergus? -->
 		<dc:source>https://www.gutenberg.org/ebooks/49609</dc:source>
-		<!-- The Wind Among the Reeds: Source for Hanrahan...Wanderings -->
+		<!-- The Wind Among the Reeds: Source for The Lover...Wanderings -->
 		<dc:source>https://www.gutenberg.org/ebooks/32233</dc:source>
 		<!-- Image sources -->
 		<!-- - All poems not otherwise listed are proofed from either: -->
@@ -79,7 +79,7 @@
 		<!-- The Leisure Hour (1891) v. 40, transc./image source for In the Firelight -->
 		<dc:source>https://catalog.hathitrust.org/Record/000551354</dc:source>
 		<!-- The Wanderings of Oisin, sketches, ballads, and lyrics (1892), transcription/image source for: -->
-		<!-- - Girl's Song, Kanva on Himself, Mr. Nettleship's Picture, Phantom Ship, -->
+		<!-- - Kanva on Himself, Mr. Nettleship's Picture, Phantom Ship, -->
 		<!-- - Lover's Quarrel/Fairies, Ferencz Renyi, Fairy Doctor, -->
 		<!-- - Priest and the Fairy, Fairy Pedant, Dwelt Among the Sycamores, -->
 		<!-- - A Legend, Street Dancers, Quatrains and Aphorisms -->
@@ -90,11 +90,8 @@
 		<!-- The Danaan Quicken Tree, and Wisdom and Dreams -->
 		<dc:source>https://catalog.hathitrust.org/Record/008883383</dc:source>
 		<!-- 1905 Poetical Works, source for: -->
-		<!-- - poem versions of Entrance of Deirdre and The Lover to His Heart, -->
-		<!-- - and The Lover Mourns Because of his Wanderings -->
+		<!-- The Lover Mourns Because of his Wanderings -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
-		<!-- The Shanachie (1906), tr./image source for "Against Witchcraft" -->
-		<dc:source>https://books.google.com/books?id=2gZDAQAAIAAJ</dc:source>
 		<!-- Responsilibities (1916), tr./image source The Well and the Tree, -->
 		<!-- - and for additional notes to poems from this collection -->
 		<dc:source>https://archive.org/details/responsibilities00yeatiala</dc:source>
@@ -108,7 +105,10 @@
 		<dc:source>https://archive.org/details/poemsyeatrich</dc:source>
 		<!-- The Tower (1928) -->
 		<dc:source>https://catalog.hathitrust.org/Record/001020237</dc:source>
-		<meta property="se:production-notes">This collection currently contains all known poems between 1885 and 1928, except for "A Dawn-Song" (1887) and "The Ballad of Earl Paul" (1893), for which no online image sources were available. Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition. In 1890 Yeats published a poem entitled "The Lamentation of the Old Pensioner", which from 1895 on was included in his collected poems as part of "The Rose." In later editions, an entirely new poem with the same title replaced this poem. In this collection the first poem appears early in the poems among Yeats' juvenilia (proofed against a 1922 edition of Poems) and the later poem appears in "The Rose." Similarly, I have retained both the original 1899 version of "The Lover Mourns Because of his Wanderings/Hanrahan Laments Because of his Wanderings" (1899) and "Maid Quiet" (1922), often considered a later version but different enough to justify its inclusion. I have tried to include all of the Notes Yeats provided to his poems; where he wrote different versions of these notes for different collections, I have tried to include both, either as separate notes or by combining two notes into one where appropriate.</meta>
+		<meta property="se:production-notes">This collection currently contains all known poems first published between 1885 and 1928, except for: (1) poems for which no online image sources were available: "A Dawn-Song" (1887), "The Ballad of Earl Paul" (1893), "Song of Spanish Insurgents" (1887), "Mourn and Then Onward" (1891), "The Glove and the Cloak" (1893), and (2) poems that are excerpts from plays or stories and which will be included there if and when SE publishes Yeats' plays and stories: "Song of the Happy Shepherd" (1885, The Island of Dreams), "Girl's Song" (1889, Dhoya), "The Lover to His Heart" (1894, The Countess Kathleen), "The poet Owen Hanrahan" (1897, Tales of Red Hanrahan)"Out of Sight is Out of Mind" (1897, The Secret Rose), "Chorus from a Play/The Entrance of Deirdre" (1906, Deirdre), "Against Witchcraft" (1906, On Baile's Strand), "Song from The Player Queen" (1914, The Player Queen).
+		Poems in the form of dialogue have been formatted with Standard Ebooks drama formatting. Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition.
+		In 1890 Yeats published a poem entitled "The Lamentation of the Old Pensioner", which from 1895 on was included in his collected poems as part of "The Rose." In later editions, an entirely new poem with the same title replaced this poem. In this collection the first poem appears early in the poems among Yeats' juvenilia (proofed against a 1922 edition of Poems) and the later poem appears in "The Rose." Similarly, I have retained both the original 1899 version of "The Lover Mourns Because of his Wanderings/Hanrahan Laments Because of his Wanderings" (1899) and "Maid Quiet" (1922), often considered a later version but different enough to justify its inclusion. I have tried to include all of the Notes Yeats provided to his poems; where he wrote different versions of these notes for different collections, I have tried to include both, either as separate notes or by combining two notes into one where appropriate.
+		A spreadsheet is available on the Standard Ebooks web site containing more bibliographical detail.</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
