@@ -9,6 +9,7 @@ section{
 
 /* Stanza, spans, and breaks */
 [epub|type~="z3998:poem"],
+[epub|type~="z3998:song"],
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -20,6 +21,7 @@ section{
 }
 
 [epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -27,6 +29,7 @@ section{
 }
 
 [epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
@@ -233,6 +236,10 @@ footer{
 	text-indent: 0;
 }
 
+[epub|type~="bridgehead"] i{
+	font-style: normal;
+}
+
 [epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
@@ -251,22 +258,23 @@ figure img{
 }
 
 /* Poem-specific styling */
-#the-rose-a-faery-song div:first-of-type{
-	margin: auto 2em 2em 2em;
-	text-align: center;
-}
-
-#baile-and-aillinn > p:first-of-type{
-	margin-bottom: 1em;
-	margin-left: 1em;
-	margin-right: 1em;
-}
-
 #responsibilities > article:first-of-type > p,
-#responsibilities > article:last-of-type > p{
-	font-style: italic;
-}
-
-#how-ferencz-renyi-kept-silent > p:first-of-type{
+#responsibilities > article:last-of-type > p,
+#how-ferencz-renyi-kept-silent > p:first-of-type,
+#the-rose-to-ireland-in-the-coming-times > p,
+#crossways-anashuya-and-vijaya [epub|type~="z3998:song"],
+#baile-and-aillinn > p:nth-of-type(1),
+#baile-and-aillinn > p:nth-of-type(4),
+#baile-and-aillinn > p:nth-of-type(7),
+#baile-and-aillinn > p:nth-of-type(17),
+#responsibilities-the-grey-rock > p:nth-of-type(1),
+#responsibilities-the-grey-rock > p:nth-of-type(4),
+#responsibilities-the-grey-rock > p:nth-of-type(5),
+#responsibilities-the-grey-rock > p:nth-of-type(8),
+#responsibilities-the-three-beggars > p:first-of-type,
+#responsibilities-the-three-beggars > p:last-of-type,
+#the-wild-swans-at-coole-the-phases-of-the-moon tbody > tr:first-of-type,
+#the-wild-swans-at-coole-the-phases-of-the-moon tbody > tr:nth-of-type(16),
+#the-wild-swans-at-coole-the-phases-of-the-moon tbody > tr:last-of-type{
 	font-style: italic;
 }
