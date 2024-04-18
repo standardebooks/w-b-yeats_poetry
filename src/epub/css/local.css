@@ -223,29 +223,19 @@ footer{
 [epub|type~="epigraph"] cite i{
 	font-style: italic;
 }
-/* End all epigraphs */
 
-/* Epigraphs in section headers */
-article > header [epub|type~="epigraph"],
-section > header [epub|type~="epigraph"]{
+/* Bridgeheads */
+[epub|type~="bridgehead"]{
 	display: inline-block;
-	margin: auto;
-	max-width: 80%;
-	text-align: initial;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
 }
 
-article > header [epub|type~="epigraph"] + *,
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
+[epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
+	text-align: justify;
 }
-
-@supports(display: table){
-	article > header [epub|type~="epigraph"],
-	section > header [epub|type~="epigraph"]{
-		display: table;
-	}
-}
-/* End epigraphs in section headers */
 
 /* Poem-specific styling */
 #the-rose-a-faery-song div:first-of-type{
