@@ -51,8 +51,11 @@
 		<dc:source>https://www.gutenberg.org/ebooks/32491</dc:source>
 		<!-- Responsibilities -->
 		<dc:source>https://www.gutenberg.org/ebooks/36865</dc:source>
-		<!-- Collected Works (1908) v. 2: Poems from Deirdre/Shadowy Waters -->
+		<!-- Collected Works (1908) v. 2: Poems from Shadowy Waters and -->
+		<!-- The Friends I Have... -->
 		<dc:source>https://www.gutenberg.org/ebooks/49609</dc:source>
+		<!-- Collected Works (1908) v. 8: Accursed who brings... -->
+		<dc:source>https://www.gutenberg.org/ebooks/49615</dc:source>
 		<!-- Poems (1920): Source for Who Goes with Fergus? -->
 		<dc:source>https://www.gutenberg.org/ebooks/49609</dc:source>
 		<!-- The Wind Among the Reeds: Source for The Lover...Wanderings -->
@@ -80,6 +83,8 @@
 		<dc:source>https://archive.org/details/poemsandballads00unkngoog</dc:source>
 		<!-- The Leisure Hour (1891) v. 40, transc./image source for In the Firelight -->
 		<dc:source>https://catalog.hathitrust.org/Record/000551354</dc:source>
+		<!-- Irish Fairy Tales (1892), transc./image source for Where My Books Go -->
+		<dc:source>https://archive.org/details/fairytalesirish00yeatrich</dc:source>
 		<!-- The Wanderings of Oisin, sketches, ballads, and lyrics (1892), transcription/image source for: -->
 		<!-- - Kanva on Himself, Mr. Nettleship's Picture, Phantom Ship, -->
 		<!-- - Lover's Quarrel/Fairies, Ferencz Renyi, Fairy Doctor, -->
@@ -94,6 +99,10 @@
 		<!-- 1905 Poetical Works, source for: -->
 		<!-- The Lover Mourns Because of his Wanderings -->
 		<dc:source>https://archive.org/details/poeticalworksofw01yeat</dc:source>
+		<!-- Collected Works (1908) v. 2: tr./img. for The Friends That Have... -->
+		<dc:source>https://archive.org/details/collectedworksin02yeatuoft</dc:source>
+		<!-- Collected Works (1908) v. 8: tr./img. for Accursed who brings... -->
+		<dc:source>https://archive.org/details/collectedworksin00yeatuoft</dc:source>
 		<!-- Responsilibities (1916), tr./image source The Well and the Tree, -->
 		<!-- - and for additional notes to poems from this collection -->
 		<dc:source>https://archive.org/details/responsibilities00yeatiala</dc:source>
