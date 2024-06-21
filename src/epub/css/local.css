@@ -269,3 +269,8 @@ figure img{
 #the-wild-swans-at-coole-the-phases-of-the-moon tbody > tr:last-of-type{
 	font-style: italic;
 }
+
+#the-wanderings-of-usheen > section,
+#the-wanderings-of-usheen > header{
+	break-after: page;
+}
