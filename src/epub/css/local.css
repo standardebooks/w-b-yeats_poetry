@@ -248,7 +248,10 @@ figure img{
 	max-width: 100%;
 }
 
+/* *********************** */
 /* Poem-specific styling */
+/* *********************** */
+/* Italicised stanzas */
 #responsibilities > article:first-of-type > p,
 #responsibilities > article:last-of-type > p,
 #how-ferencz-renyi-kept-silent > p:first-of-type,
@@ -270,7 +273,30 @@ figure img{
 	font-style: italic;
 }
 
+/* Title pages for collections and multi-part poems */
+#the-wanderings-of-usheen > header,
+#the-rose > header,
+#crossways > header,
+#the-wind-among-the-reeds > h2,
+#in-the-seven-woods > h2,
+#introductory-poems-from-the-shadowy-waters > h2,
+#from-the-green-helmet-and-other-poems > h2,
+#the-wild-swans-at-coole > h2,
+#michael-robartes-and-the-dancer > h2,
+#the-tower > h2{
+	margin-top: 3em;
+}
+
 #the-wanderings-of-usheen > section,
-#the-wanderings-of-usheen > header{
+#the-wanderings-of-usheen > header,
+#the-rose > header,
+#crossways > header,
+#the-wind-among-the-reeds > h2,
+#in-the-seven-woods > h2,
+#introductory-poems-from-the-shadowy-waters > h2,
+#from-the-green-helmet-and-other-poems > h2,
+#the-wild-swans-at-coole > h2,
+#michael-robartes-and-the-dancer > h2,
+#the-tower > h2{
 	break-after: page;
 }
