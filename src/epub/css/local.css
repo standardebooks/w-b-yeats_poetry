@@ -304,3 +304,9 @@ figure img{
 #a-man-young-and-old > section{
 	break-after: page;
 }
+
+/* Block quote in endnote -- spacing */
+
+li div[epub|type~="z3998:verse"] {
+	margin-bottom:1em;
+}
