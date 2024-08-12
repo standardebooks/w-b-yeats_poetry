@@ -288,6 +288,7 @@ figure img{
 	margin-top: 3em;
 }
 
+/* Section breaks for multi-part poems */
 #the-wanderings-of-usheen > section,
 #the-wanderings-of-usheen > header,
 #the-rose > header,
@@ -299,6 +300,7 @@ figure img{
 #responsibilities > header,
 #the-wild-swans-at-coole > h2,
 #michael-robartes-and-the-dancer > h2,
-#the-tower > h2{
+#the-tower > h2,
+#a-man-young-and-old > section{
 	break-after: page;
 }
