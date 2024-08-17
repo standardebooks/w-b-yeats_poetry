@@ -306,7 +306,6 @@ figure img{
 }
 
 /* Block quote in endnote -- spacing */
-
-li div[epub|type~="z3998:verse"] {
-	margin-bottom:1em;
+li div[epub|type~="z3998:verse"]{
+	margin-bottom: 1em;
 }
