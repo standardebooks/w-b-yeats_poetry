@@ -227,10 +227,6 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
 [epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
@@ -308,4 +304,32 @@ figure img{
 /* Block quote in endnote -- spacing */
 li div[epub|type~="z3998:verse"]{
 	margin-bottom: 1em;
+}
+
+/* Italics in Baile and Ailinn */
+#baile-and-aillinn [epub|type~="bridgehead"] span:first-of-type{
+	display: inline;
+	font-style: normal;
+	padding-left: 0;
+	text-indent: 0;
+}
+
+/* Quotation styling for italicised quotations within poems */
+q{
+	font-style: italic;
+}
+
+[epub|type~="z3998:poem"] p > blockquote{
+	color: green;
+	display: inline;
+	font-style: italic;
+	margin-block-end: 0;
+	margin-block-start: 0;
+	margin-inline-end: 0;
+	margin-inline-start: 0;
+}
+
+[epub|type~="z3998:poem"] p > blockquote > div{
+	color: blue;
+	display: inline;
 }
