@@ -318,18 +318,3 @@ li div[epub|type~="z3998:verse"]{
 q{
 	font-style: italic;
 }
-
-[epub|type~="z3998:poem"] p > blockquote{
-	color: green;
-	display: inline;
-	font-style: italic;
-	margin-block-end: 0;
-	margin-block-start: 0;
-	margin-inline-end: 0;
-	margin-inline-start: 0;
-}
-
-[epub|type~="z3998:poem"] p > blockquote > div{
-	color: blue;
-	display: inline;
-}
