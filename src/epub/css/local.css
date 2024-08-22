@@ -270,10 +270,9 @@ figure img{
 }
 
 /* Italicised lines */
-
 #crossways-the-madness-of-king-goll > p > span:last-of-type,
-#crossways-the-meditation-of-the-old-fisherman > p> span:last-of-type {
-font-style:italic;
+#crossways-the-meditation-of-the-old-fisherman > p > span:last-of-type{
+	font-style: italic;
 }
 
 /* Title pages for collections and multi-part poems */
