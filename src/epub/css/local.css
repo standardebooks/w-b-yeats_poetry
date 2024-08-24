@@ -193,7 +193,6 @@ article[epub|type~="z3998:scene"] > p{
 
 /* non-TOC headers */
 header{
-	font-variant: small-caps;
 	margin: 1em;
 	text-align: center;
 }
@@ -318,6 +317,11 @@ li div[epub|type~="z3998:verse"]{
 	font-style: normal;
 	padding-left: 0;
 	text-indent: 0;
+}
+
+/* Chorus header in Colonus' Praise */
+#the-tower-colonus-praise > div > header{
+	font-variant: small-caps;
 }
 
 /* Quotation styling for italicised quotations within poems */
