@@ -238,11 +238,6 @@ figure img{
 	break-after: page;
 }
 
-/* Block quote in endnote -- spacing */
-li div[epub|type~="z3998:verse"]{
-	margin-bottom: 1em;
-}
-
 /* Italics in Baile and Ailinn */
 #baile-and-aillinn [epub|type~="bridgehead"] span:first-of-type{
 	display: inline;
