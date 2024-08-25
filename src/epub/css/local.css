@@ -254,6 +254,10 @@ li div[epub|type~="z3998:verse"]{
 	font-variant: small-caps;
 }
 
+/* Poem ("The Dying Swan") in endnotes */
+
+#note-27 header {font-variant:small-caps;}
+
 /* Quotation styling for italicised quotations within poems */
 q{
 	font-style: italic;
