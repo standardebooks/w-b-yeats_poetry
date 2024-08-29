@@ -173,6 +173,33 @@ figure img{
 	max-width: 100%;
 }
 
+article[epub|type~="z3998:drama"] > p{
+	margin: 1em auto;
+	width: 75%;
+}
+
+/* Epigraphs in section headers */
+article > header [epub|type~="epigraph"],
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+article > header [epub|type~="epigraph"] + *,
+section > header [epub|type~="epigraph"] + *{
+	margin-top: 3em;
+}
+
+@supports(display: table){
+	article > header [epub|type~="epigraph"],
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
+
 /* *********************** */
 /* Poem-specific styling */
 /* *********************** */
@@ -239,15 +266,12 @@ figure img{
 }
 
 /* Italics in Baile and Ailinn */
-#baile-and-aillinn [epub|type~="bridgehead"] span:first-of-type{
-	display: inline;
+#baile-and-aillinn [epub|type~="bridgehead"] i{
 	font-style: normal;
-	padding-left: 0;
-	text-indent: 0;
 }
 
 /* Chorus header in Colonus' Praise */
-#the-tower-colonus-praise > div > header{
+#the-tower-colonus-praise > header > p{
 	font-variant: small-caps;
 }
 
