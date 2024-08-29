@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-b-yeats/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-08-29T19:22:49Z</dc:date>
+		<meta property="dcterms:modified">2024-08-29T19:22:49Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,9 +37,9 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">http://id.loc.gov/authorities/subjects/sh2008104925</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">A collection of poems by William Butler Yeats.</dc:description>
+		<dc:description id="description">A collection of poems by W. B. Yeats.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/w-b-yeats"&gt;William Butler Yeats&lt;/a&gt; played many roles in Ireland at the turn of the twentieth century: playwright, essayist, critic, mystic, theatre manager, revolutionary and politician. But he was first and foremost a poet, perhaps the most famous poet Ireland has yet produced.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/w-b-yeats"&gt;W. B. Yeats&lt;/a&gt; played many roles in Ireland at the turn of the twentieth century: playwright, essayist, critic, mystic, theater manager, revolutionary, and politician. But he was first and foremost a poet—perhaps the most famous poet Ireland has yet produced.&lt;/p&gt;
 			&lt;p&gt;This collection contains Yeats’ verse from his first published poem, “Song of the Fairies,” which appeared in a Dublin literary magazine in 1885, through 1928’s &lt;i&gt;The Tower&lt;/i&gt;. In them the reader can trace the growth of the poet’s voice and the influences on his writing, from Irish nationalism to esoteric metaphysics.&lt;/p&gt;
 			&lt;p&gt;Included are some of Yeats’ most enduringly popular works: “The Second Coming,” “The Lake Isle of Innisfree,” and “The Wild Swans at Coole.”&lt;/p&gt;
 		</meta>
@@ -127,8 +127,8 @@
 		Poems from Michael Robartes and the Dancer (1920) and The Tower (1928) were edited simultaneously for Standard Ebooks and Project Gutenberg and should therefore be identical with, but not based on, the corresponding Project Gutenberg edition.
 		In 1890 Yeats published a poem entitled "The Lamentation of the Old Pensioner", which from 1895 on was included in his collected poems as part of "The Rose." In later editions, an entirely new poem with the same title replaced this poem. In this collection the first poem appears early in the poems among Yeats' juvenilia (proofed against a 1922 edition of Poems) and the later poem appears in "The Rose." Similarly, I have retained both the original 1899 version of "The Lover Mourns Because of his Wanderings/Hanrahan Laments Because of his Wanderings" (1899) and "Maid Quiet" (1922), often considered a later version but different enough to justify its inclusion. I have tried to include all of the Notes Yeats provided to his poems; where he wrote different versions of these notes for different collections, I have tried to include both, either as separate notes or by combining two notes into one where appropriate.</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">64024</meta>
+		<meta property="se:reading-ease.flesch">65.69</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-b-yeats_poetry</meta>
 		<dc:creator id="author">W. B. Yeats</dc:creator>
 		<meta property="file-as" refines="#author">Yeats, W. B.</meta>
