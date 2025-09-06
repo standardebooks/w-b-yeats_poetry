@@ -6,12 +6,12 @@
 			<reason>Stage direction italics to remain italic at start of line.</reason>
 		</ignore>
 		<ignore>
-			<code>t-033</code>
-			<reason>Hyphenated word split across a line of poetry.</reason>
-		</ignore>
-		<ignore>
 			<code>s-023</code>
 			<reason>Correct hyphenation of articles at the beginning of titles nested within titles.</reason>
+		</ignore>
+		<ignore>
+			<code>t-033</code>
+			<reason>Hyphenated word split across a line of poetry.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
