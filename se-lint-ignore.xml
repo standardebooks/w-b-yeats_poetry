@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="poetry.xhtml">
-		<ignore>
-			<code>c-021</code>
+		<ignore code="c-021">
 			<reason>Stage direction italics to remain italic at start of line.</reason>
 		</ignore>
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>Correct hyphenation of articles at the beginning of titles nested within titles.</reason>
 		</ignore>
-		<ignore>
-			<code>t-033</code>
+		<ignore code="t-033">
 			<reason>Hyphenated word split across a line of poetry.</reason>
 		</ignore>
 	</file>
