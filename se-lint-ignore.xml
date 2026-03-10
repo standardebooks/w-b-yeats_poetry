@@ -2,12 +2,19 @@
 <se-lint-ignore>
 	<file path="poetry.xhtml">
 		<ignore code="c-021">
+			<line>6732</line>
+			<line>6883</line>
 			<reason>Stage direction italics to remain italic at start of line.</reason>
 		</ignore>
 		<ignore code="s-023">
+			<line>10578</line>
+			<line>12304</line>
+			<line>15245</line>
+			<line>20678</line>
 			<reason>Correct hyphenation of articles at the beginning of titles nested within titles.</reason>
 		</ignore>
 		<ignore code="t-033">
+			<line>133</line>
 			<reason>Hyphenated word split across a line of poetry.</reason>
 		</ignore>
 	</file>
