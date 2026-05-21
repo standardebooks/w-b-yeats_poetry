@@ -148,7 +148,7 @@ footer{
 }
 
 /* Bridgeheads */
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
@@ -156,7 +156,7 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
+[epub|type~="z3998:poem"] [epub|type~="se:bridgehead"]{
 	text-align: justify;
 }
 
@@ -266,7 +266,7 @@ section > header [epub|type~="epigraph"] + *{
 }
 
 /* Italics in Baile and Ailinn */
-#baile-and-aillinn [epub|type~="bridgehead"] i{
+#baile-and-aillinn [epub|type~="se:bridgehead"] i{
 	font-style: normal;
 }
 
