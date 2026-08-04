@@ -38,7 +38,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008104925</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>A collection of poems by W. B. Yeats.</dc:abstract>
+		<meta property="schema:abstract">A collection of poems by W. B. Yeats.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/w-b-yeats"&gt;W. B. Yeats&lt;/a&gt; played many roles in Ireland at the turn of the twentieth century: playwright, essayist, critic, mystic, theater manager, revolutionary, and politician. But he was first and foremost a poet—perhaps the most famous poet Ireland has yet produced.&lt;/p&gt;
 			&lt;p&gt;This collection contains Yeats’ verse from his first published poem, “Song of the Fairies,” which appeared in a Dublin literary magazine in 1885, through 1928’s &lt;i&gt;The Tower&lt;/i&gt;. In them the reader can trace the growth of the poet’s voice and the influences on his writing, from Irish nationalism to esoteric metaphysics.&lt;/p&gt;
